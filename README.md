@@ -1,3 +1,3 @@
 # git-with-bogdan-stashchuk
 
-manually edit README.md. One more edit locally.
+This line was modified manually during conflicts resolution
